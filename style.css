@@ -1,0 +1,102 @@
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav {
+    color: white;
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+}
+
+body{
+    background-image: url(images/1674905507_top-fon-com-p-fon-dlya-prezentatsii-igrovoi-167.jpg);
+} 
+
+main {
+    color: white;
+    text-align: center
+}
+
+.link {
+    color: white; 
+}
+
+#program {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.programming {
+    width: 10%;
+}
+
+#english {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.studyenglish {
+    width: 10%;
+}
+
+#chinese {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.studychinese {
+    width: 10%;
+}
+
+#call {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.tocall {
+    width: 10%;
+}
+
+#typespro {
+    display: flex;
+    justify-content: center;
+}
+
+#html {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.htmlcource {
+    width: 10%;
+}
+
+
+#Scratch {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.Scratchcource {
+    width: 10%;
+}
+
+.linkpro:hover {
+    color: green;
+}
+
+.linkeng:hover {
+    color: green;
+}
+
+.linkchi:hover {
+    color: green;
+}
+
+.linkcall:hover {
+    color: green;
+}
+
